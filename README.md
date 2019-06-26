@@ -12,4 +12,4 @@ In this tutorial, you will learn how to send email with multiple attachments in 
 5. Run the Application - `python3 manage.py runserver`
 6. Go to - http://localhost:8000/
 
-## Make Sure You Change your Email Host Password in Settings.py file.
+### Make Sure You Change your Email Host Password in Settings.py file.
